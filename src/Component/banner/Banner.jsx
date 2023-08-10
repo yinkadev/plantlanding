@@ -2,6 +2,9 @@ import React from 'react'
 import Style from "./Banner.module.css"
 
 
+
+
+
 const Banner = () => {
   return (
     <div className={Style.container}>
@@ -160,6 +163,7 @@ const Banner = () => {
 <div className={Style.buttondiv}>
   <button>shop plant</button>
 </div>
+
 <div className={Style.footer}>
   <div className={Style.footerdivv}>
    <div className={Style.footerimg}>
@@ -170,12 +174,18 @@ const Banner = () => {
   </div>
   <div className={Style.footerdivv} >
     <h5>quicklinks</h5>
+    <nav>
     <ul>
-   <li><a href="">Home</a></li>
-    <li><a href="#about">About</a></li>
-     <li><a href="">Contact Us</a></li>
+    <li><a href="">Home</a></li>
+
+        <li><a href="#about">About</a></li>
+
+  <li><a href="">Contact Us</a></li>
+
      <li><a href="">Blog</a></li>
     </ul>
+    </nav>
+   
   </div>
   <div className={Style.footerdivv}>
     <h5>contact Us</h5>
