@@ -238,17 +238,6 @@ padding: 60px 0;
   padding-top: 30px;
 }
 
-.Cardd{
-  background-color: #ffff;
-  width: 290px;
-height: 373px;
-border-radius: 20px;
-display: flex;
-align-items: center;
-flex-direction: column;
-margin-bottom: 40px;
-position: relative;
-}
 
 .cardimg{
   position: absolute;
@@ -256,17 +245,6 @@ position: relative;
 }
 
 
-.Cardd p {
-  font-family: Poppins;
-font-size: 17px;
-font-weight: 400;
-line-height: 27px;
-letter-spacing: 0em;
-text-align: center;
-padding: 9rem 0;
-color: #054840;
-
-}
 .card1 img{
   width: 100px;
 }
@@ -486,9 +464,6 @@ a{
 .bestplantdiv img{
   width: 270px;
 }
-.cardd{
-   width: 200px;
- }
 
  .card{
   width: 220px;
@@ -509,10 +484,6 @@ a{
      width: 220px;
    }
 
-
-   .Cardd{
-    width: 240px;
-  }
 
   .about{
     flex-direction: column;
@@ -653,9 +624,6 @@ flex-direction: column;
  width: 100%;
 }
 
-.Cardd{
-margin-bottom: 10px;
-}
 .card{
  margin-bottom: 10px;
  }

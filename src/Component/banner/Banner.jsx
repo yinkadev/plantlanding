@@ -20,8 +20,8 @@ const Banner = () => {
         <h5>Providing you with the healthiest indoor and outdoor<br></br> plans fits for the best scenery.</h5>
 
         <div className={Style.button}>
-          <button className={Style.button1}>consultion</button>
-          <button className={Style.button2}>shop plant</button>
+          <button className={Style.button1}>Consultion</button>
+          <button className={Style.button2}>Shop plant</button>
         </div>
       </div>
 
@@ -37,7 +37,7 @@ const Banner = () => {
 </h1>
 </div>
 <div className={Style.total1}>
-  <p>sold <br></br><span>plant</span></p>
+  <p>Sold <br></br><span>plant</span></p>
 </div>
 <div className={Style.total1}>
   <img src="images/line.png" alt="" />
@@ -47,7 +47,7 @@ const Banner = () => {
   <h1>150+</h1>
 </div>
 <div className={Style.total1}>
-<p>client</p>
+<p>Client</p>
   </div>
 </div>
 <div id='about'>
@@ -86,8 +86,8 @@ const Banner = () => {
 
 <div className={Style.carddiv}>
 
-<div className={Style.Cardd}>
-  <div className={Style.cardimg}>
+<div className={Style.card}>
+  <div>
     <img src="images/person1.png" alt="" srcset="" />
   </div>
 
@@ -161,7 +161,7 @@ const Banner = () => {
 </div>
 
 <div className={Style.buttondiv}>
-  <button>shop plant</button>
+  <button>Shop plant</button>
 </div>
 
 <div className={Style.footer}>
@@ -173,7 +173,7 @@ const Banner = () => {
     <p>Providing you with the healthiest indoor and outdoor plans fits for the best scenery.</p>
   </div>
   <div className={Style.footerdivv} >
-    <h5>quicklinks</h5>
+    <h5>Quicklinks</h5>
     <nav>
     <ul>
     <li><a href="">Home</a></li>
@@ -188,10 +188,10 @@ const Banner = () => {
    
   </div>
   <div className={Style.footerdivv}>
-    <h5>contact Us</h5>
+    <h5>Contact Us</h5>
     <p>+234 647 2574 123</p>
     <p>Adedejilens@gmail.com</p>
-    <p>No 10 ogunlana street, surulere, Lagos.</p>
+    <p>10 ogunlana street, surulere, Lagos.</p>
   </div>
 </div>
 </div>
